@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.one-bg-container {
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.page-one-image {
+    height
+}
+
+.button {
+    margin: 5px;
+    padding: 10px;
+    background-color: black;
+    color: #ffffff;
+}
+
+.card-heading {
+    padding-left: 0px;
+    padding-top: 120px;
+    padding-right: 0px;
+    font-family: "roboto";
+    font-size: 45px;
+    font-weight: bold;
+    margin: 5px;
+    margin-left: 5px;
+}
+
+.card-normal {
+    padding-left: 0px;
+    padding-top: 120px;
+    padding-right: 5px;
+    font-family: "roboto";
+    font-size: 45px;
+    margin: 5px;
+}
+
+.card-heading-1 {
+    padding-left: 0px;
+    padding-top: 75px;
+    padding-right: 0px;
+    font-family: "roboto";
+    font-size: 45px;
+    font-weight: bold;
+    margin: 5px;
+    margin-left: 5px;
+}
+
+.card-normal-1 {
+    padding-left: 0px;
+    padding-top: 75px;
+    padding-right: 5px;
+    font-family: "roboto";
+    font-size: 45px;
+    margin: 5px;
+}
+
+.bg-container {
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    text-align: center;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+}
+
+.card-container-1 {
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 100px;
+    margin-top: 200px;
+    margin-bottom: 80px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+}
+
+.image {
+    height: 150px;
+    width: 150px;
+}
+
+.image-1 {
+    height: 20px;
+    width: 20px;
+}
+
+.image-2 {
+    height: 100px;
+    width: 100px;
+}
+
+.second-bg-container {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+.second-heading {
+    margin-top: 250px;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.description {
+    margin-bottom: 50px;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: normal;
+}
